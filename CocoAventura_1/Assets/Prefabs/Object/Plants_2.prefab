@@ -1,0 +1,2802 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5766960392018694369
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5766960392018694368}
+  m_Layer: 0
+  m_Name: Plants_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5766960392018694368
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5766960392018694369}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2909526204560100650}
+  - {fileID: 2909526204232449583}
+  - {fileID: 2909526203473303902}
+  - {fileID: 2909526203986139665}
+  - {fileID: 2909526204478378712}
+  - {fileID: 2909526203939680342}
+  - {fileID: 2909526204134633814}
+  - {fileID: 2909526203303225865}
+  - {fileID: 2909526204531718319}
+  - {fileID: 2909526203235008852}
+  - {fileID: 2909526204175440928}
+  - {fileID: 2909526203778279478}
+  - {fileID: 2909526203741925811}
+  - {fileID: 2909526203830602684}
+  - {fileID: 2909526202713061356}
+  - {fileID: 2909526204385550427}
+  - {fileID: 2909526204690572888}
+  - {fileID: 2909526204006883863}
+  - {fileID: 2909526203954227244}
+  - {fileID: 2909526204120622869}
+  - {fileID: 2909526202707549149}
+  - {fileID: 2909526204706696659}
+  - {fileID: 2909526204585992640}
+  - {fileID: 2909526203561470187}
+  - {fileID: 2909526203593230087}
+  - {fileID: 2909526204287469101}
+  - {fileID: 2909526203668568974}
+  - {fileID: 2909526203834320251}
+  - {fileID: 2909526203093894392}
+  - {fileID: 2909526203576499524}
+  - {fileID: 2909526203237912651}
+  - {fileID: 2909526203934629662}
+  - {fileID: 2909526204759334982}
+  - {fileID: 2909526204401474416}
+  - {fileID: 2909526204095865472}
+  - {fileID: 2909526204629147196}
+  - {fileID: 2909526203493925375}
+  - {fileID: 2909526204029288547}
+  - {fileID: 2909526204695378596}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &5766960392265590169
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 142.44998
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526202707549149 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960392265590169}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960392266369448
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 96.2146
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526202713061356 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960392266369448}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960392416115388
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 144.98459
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203093894392 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960392416115388}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960392561344443
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 163.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203493925375 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960392561344443}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960392573576986
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 73.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203473303902 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960392573576986}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960392743654477
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 80.79
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203303225865 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960392743654477}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960392806870543
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 132.22537
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203237912651 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960392806870543}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960392809774864
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 103.8792
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203235008852 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960392809774864}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960392841826295
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 91.11998
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203741925811 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960392841826295}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960392923571658
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 121.89539
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203668568974 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960392923571658}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960392998910275
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 119.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203593230087 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960392998910275}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393015640832
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.09539
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203576499524 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393015640832}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393030669999
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 111.67078
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203561470187 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393030669999}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393099722279
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 158.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204029288547 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393099722279}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393111641171
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 124.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204006883863 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393111641171}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393140773973
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 70.565384
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203986139665 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393140773973}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393172686440
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 134.75998
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203954227244 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393172686440}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393178844690
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 75.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203939680342 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393178844690}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393185993050
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 137.31999
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203934629662 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393185993050}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393286302527
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 129.62999
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203834320251 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393286302527}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393287923192
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 98.74921
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203830602684 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393287923192}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393348634226
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 93.654594
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526203778279478 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393348634226}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393370024041
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 116.765396
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204287469101 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393370024041}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393433432171
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 67.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204232449583 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393433432171}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393482052196
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 85.99
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204175440928 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393482052196}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393520762642
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 83.32461
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204134633814 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393520762642}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393543162193
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 139.8546
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204120622869 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393543162193}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393570016452
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 152.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204095865472 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393570016452}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393642652526
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 65.435394
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204560100650 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393642652526}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393668937451
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 88.5246
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204531718319 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393668937451}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393715985564
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 78.19461
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204478378712 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393715985564}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393790793012
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 150.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204401474416 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393790793012}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393808813599
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 101.3446
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204385550427 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393808813599}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960393980288514
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 155.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204759334982 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960393980288514}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960394024539031
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 106.54079
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204706696659 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960394024539031}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960394033759456
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 38
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 160.98999
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204695378596 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960394033759456}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960394046953500
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 109.07539
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204690572888 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960394046953500}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960394102087800
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 147.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204629147196 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960394102087800}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5766960394143145860
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5766960392018694368}
+    m_Modifications:
+    - target: {fileID: 8676445569442931300, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_Name
+      value: Triangle pot palm plant prefab (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7262604
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 114.20539
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99225444
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12422267
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.272
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+--- !u!4 &2909526204585992640 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8676445569443429956, guid: 7d8344e8416948240bdbaca430c7f738, type: 3}
+  m_PrefabInstance: {fileID: 5766960394143145860}
+  m_PrefabAsset: {fileID: 0}
