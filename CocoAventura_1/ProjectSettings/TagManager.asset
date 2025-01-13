@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Coquitos_Object
   - Coco_Player
+  - Cubo_Object
   layers:
   - Default
   - TransparentFX
